@@ -1,0 +1,17 @@
+.PlaceHolderDel-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.PlaceHolderDel-container-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.PlaceHolderDel-input {
+    width: 100%;
+    margin: 2px;
+}

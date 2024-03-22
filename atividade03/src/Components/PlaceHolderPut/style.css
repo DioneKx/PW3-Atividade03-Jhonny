@@ -1,0 +1,17 @@
+.PlaceHolderPut-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.PlaceHolderPut-container-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.PlaceHolderPut-input {
+    width: 100%;
+    margin: 2px;
+}
